@@ -2,7 +2,6 @@
 Simple React application, for a Pokemon api. 
 
 
-![GitHub Logo](/src/Plogo.svg)
 
 
 
