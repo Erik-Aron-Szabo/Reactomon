@@ -1,3 +1,19 @@
+
+Simple React application, for a Pokemon api. 
+
+
+![GitHub Logo](/src/Plogo.svg)
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
