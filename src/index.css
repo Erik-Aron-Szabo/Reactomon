@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  align-content: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,41 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  background-color: aqua;
+  text-decoration: brown;
+  font-size: medium;
+  border-radius: 10px;
+  border-style: ridge;
+}
+
+h1 {
+  align-content: center;
+  background-color: aqua;
+  text-decoration: brown;
+  border-radius: 32px;
+  border-style: ridge;
+  border-width: initial;
+  border-color: yellow;
+  border-width: 1rem;
+  width: fit-content;
+}
+
+
+#nextPrev {
+  border-color: yellow;
+  border-width: 1rem;
+}
+
+#pkmnGridContainer {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows:  50px 50px 50px 50px;
+
+}
+
+#navbar {
+  
 }

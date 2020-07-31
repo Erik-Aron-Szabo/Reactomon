@@ -15,14 +15,12 @@ export default function Navbar() {
     <Router>
       <div>
         <nav>
-          <ul>
-            <li>
-              <Link to="/pokemons">Pokemons</Link>
-            </li>
-            <li>
-              <Link to="/types">Types</Link>
-            </li>
-          </ul>
+          <div id="navbar">
+            <Link to="/pokemons">Pokemons</Link>
+          </div>
+          <div id="navbar">
+            <Link to="/types">Types</Link>
+          </div>
         </nav>
 
         {/* A <Switch> looks through its children <Route>s and
